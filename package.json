@@ -1,0 +1,6 @@
+{
+  "name": "tool-core18",
+  "version": "1.6.0",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
